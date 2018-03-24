@@ -16,7 +16,7 @@ Coursera: Control of Mobile Robots
 ![model](./Results/l7.gif)
 
 ## For more information
-https://avitech.blog/2016/01/09/ddrcontrol/
+https://wp.me/p9KXJx-3
 
 ## Contributers
 Avinash Sharma: avinashmnit30@gmail.com
